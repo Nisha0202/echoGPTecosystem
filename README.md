@@ -3,6 +3,16 @@
 One continuous single-page review experience: brand loader → landing page →
 live embedded web-app workspace → floating Chrome-extension preview.
 
+# Technologies used
+- Next.js 15 (App Router), React 19, TypeScript (strict)
+- Tailwind CSS 3 with CSS-variable design tokens
+- Framer Motion for the loader, scroll reveals, tab and accordion transitions, sidebar collapse
+- Lucide React for icons
+- Raleway via next/font/google
+
+# Setup
+- Requires Node.js 18.18 or newer.
+
     npm install
     npm run dev      # http://localhost:3000
 
