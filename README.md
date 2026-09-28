@@ -11,7 +11,8 @@ live embedded web-app workspace → floating Chrome-extension preview.
 - Raleway via next/font/google
 
 # Setup
-- Requires Node.js 18.18 or newer.
+Requires Node.js 18.18 or newer.
+
 
     npm install
     npm run dev      # http://localhost:3000
